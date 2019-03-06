@@ -1,3 +1,6 @@
+### Описание:
+Данные по каждому продукту находятся в products-data.json . Сообственно из этого файла через fetch эти данные берутся и на их основе собираются продуктовые карточки. Вся логика в app/components/products/products.js .
+
 # Watch: [https://mishabevz.github.io/catfood](https://mishabevz.github.io/catfood)
 
 ### Available Scripts
