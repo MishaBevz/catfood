@@ -1,4 +1,4 @@
-## Level 1:
+# Level 1:
 ### Q1 Расскажите, чем, на ваш взгляд, отличается хорошая верстка от плохой с точки зрения:
 Пользователя: быстрая загрузка, удобство и понятность интерфейса, доступность.
 Менеджера проекта: соответствие ТЗ.
@@ -47,24 +47,7 @@ https://grattis.ru <br>
 http://chat-site.grattis.ru - чат бот (всплывет в правом нижнем углу), верстка и клиентская часть полностью написаны мной. Интегрируется в каком-либо сайте в iframe.<br>
 http://widget-dev.grattis.ru/widgets/5caeffc48b85af1a1853dbe9 - виджет аудио-поздравлений. Интегрируется в каком-либо сайте в iframe.<br>
 
-## Level 2:
+# Level 2:
+# [https://mishabevz.github.io/catfood](https://mishabevz.github.io/catfood)
 
-# Смотреть результат: [https://mishabevz.github.io/catfood](https://mishabevz.github.io/catfood)
-
-### Available Scripts
-
-In the project directory, you can run:
-
-### `npm install` 
-
-For install all packages that it depends on.
-
-### `npm dev`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder and minification bundle.js .<br>
 
