@@ -31,21 +31,21 @@
 
 Интересно и то идругое, так же интересен backend, machine learning.
 
-https://medium.com/web-standards
-https://proglib.io
-http://learn.javascript.ru
-https://developer.mozilla.org
-https://habr.com/ru
-https://qna.habr.com
+https://medium.com/web-standards <br>
+https://proglib.io <br>
+http://learn.javascript.ru <br>
+https://developer.mozilla.org <br>
+https://habr.com/ru <br>
+https://qna.habr.com <br>
 
 ### Q8 Расскажите нам о себе и предоставьте несколько ссылок на последние работы, выполненные вами.
 Занимаюсь коммерческой веб разработкой уже около 3-х лет. Занимаюсь frontend частью, верстаю и пишу клиентскую логику на javascript'е.
 
 Несколько последних работ:
 
-https://grattis.ru
-http://chat-site.grattis.ru - чат бот (всплывет в правом нижнем углу), верстка и клиентская часть полностью написаны мной. Интегрируется в каком-либо сайте в iframe.
-http://widget-dev.grattis.ru/widgets/5caeffc48b85af1a1853dbe9 - виджет аудио-поздравлений. Интегрируется в каком-либо сайте в iframe.
+https://grattis.ru <br>
+http://chat-site.grattis.ru - чат бот (всплывет в правом нижнем углу), верстка и клиентская часть полностью написаны мной. Интегрируется в каком-либо сайте в iframe.<br>
+http://widget-dev.grattis.ru/widgets/5caeffc48b85af1a1853dbe9 - виджет аудио-поздравлений. Интегрируется в каком-либо сайте в iframe.<br>
 
 ## Level 2:
 
